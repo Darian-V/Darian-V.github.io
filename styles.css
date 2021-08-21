@@ -1,3 +1,24 @@
-body {
-    background: lightgoldenrodyellow;
+*{
+  background:LavenderBlush;
 }
+h1{
+  font-family:Georgia;
+  font-size:60px;
+}
+img{
+  width: 500px; 
+} 
+
+.container{
+  display:flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+}
+
+.meat{
+  font-family:Georgia;
+  font-size:18px;
+}
+
+
